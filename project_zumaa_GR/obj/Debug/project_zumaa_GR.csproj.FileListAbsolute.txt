@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\project_zumaa_GR\project_zumaa_GR\bin\Debug\project_zumaa_GR.exe
+C:\Users\USER\source\repos\project_zumaa_GR\project_zumaa_GR\bin\Debug\project_zumaa_GR.pdb
+C:\Users\USER\source\repos\project_zumaa_GR\project_zumaa_GR\obj\Debug\project_zumaa_GR.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\project_zumaa_GR\project_zumaa_GR\obj\Debug\project_zumaa_GR.Properties.Resources.resources
+C:\Users\USER\source\repos\project_zumaa_GR\project_zumaa_GR\obj\Debug\project_zumaa_GR.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\project_zumaa_GR\project_zumaa_GR\obj\Debug\project_zumaa_GR.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\project_zumaa_GR\project_zumaa_GR\obj\Debug\project_zumaa_GR.exe
+C:\Users\USER\source\repos\project_zumaa_GR\project_zumaa_GR\obj\Debug\project_zumaa_GR.pdb
+C:\Users\USER\source\repos\project_zumaa_GR\project_zumaa_GR\obj\Debug\project_zumaa_GR.Form1.resources
